@@ -2,4 +2,4 @@
 
 ### Описание семинара:
 
-- [Семинар 6](https://github.com/Roman100500/js-seminar/blob/main/Lesson_6/Workshop6.pptx)
+- [Семинар 7](https://github.com/Roman100500/js-seminar/blob/main/Lesson_7/Workshop7.pptx)
